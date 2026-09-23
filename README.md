@@ -1,4 +1,4 @@
-# Hi there, I'm a Data Analytics Graduate! 👋
+# About me
 
 A passionate and results-driven Data Analytics graduate specialized in **Advanced Machine Learning**, **NLP**, and **Computer Vision**. I excel at engineering predictive models to drive data-driven product development and algorithm optimization. Beyond building models, I specialize in analyzing complex datasets and constructing interactive dashboards that reveal trends, anomalies, and hidden patterns while prioritizing a seamless user experience.
 
